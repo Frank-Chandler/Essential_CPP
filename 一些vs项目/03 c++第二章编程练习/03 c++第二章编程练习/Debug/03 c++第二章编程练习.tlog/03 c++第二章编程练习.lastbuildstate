@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:VCServicingVersionCrtHeaders=14.29.30136:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|C:\Users\86186\Desktop\vs项目\03 c++第二章编程练习\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:VCServicingVersionCrtHeaders=14.29.30136:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|C:\Users\86186\Desktop\vs项目\03 c++第二章编程练习\|
+>>>>>>> cee28e161c4143473a272ecba7216759bbbaea17
